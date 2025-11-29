@@ -1,0 +1,52 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node.js (if building tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if building tools)
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Build outputs
+dist/
+build/
+*.pdf
+
+# Local development
+.local/
+*.local
+
+# Logs
+logs/
+*.log
