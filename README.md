@@ -1,20 +1,32 @@
-# CJCPAs Ultimate SSARS Library
+# CJCPAs Ultimate SSARs Library
 
-## The Definitive Compilation and Review Reference - Version 3.0
+## The Definitive Compilation and Review Reference - Version 4.0
 
 Welcome to the **Ultimate SSARS Library** - the most comprehensive resource for mastering Statements on Standards for Accounting and Review Services. This library covers every AR-C section with official AICPA language, plain English interpretations, practical implementation guidance, industry-specific modules, case studies, workpaper examples, and a structured database.
 
 ---
 
-## What's New in Version 3.0
+## 🚨 CRITICAL UPDATE: December 15, 2025 Deadline
 
+**SSARS No. 26 - Quality Management** requires all firms to have their Quality Management System designed and implemented by **December 15, 2025**. See our comprehensive [SSARS 26 Guide](sections/SSARS-26-Quality-Management.md) and [QM Integration Guide](advanced-topics/quality-management-integration.md).
+
+---
+
+## What's New in Version 4.0
+
+### 2025-2026 Standards Updates
+- **[SSARS No. 26](sections/SSARS-26-Quality-Management.md)** - Quality Management (Effective Dec 15, 2025)
+- **[SSARS No. 27](sections/SSARS-27-Consulting-Services-Exemption.md)** - Consulting Services Exemption (Effective Dec 15, 2026)
+- **[QM Integration Guide](advanced-topics/quality-management-integration.md)** - Practical implementation guidance
+- **[QM Workpapers](workpapers/quality-management-engagement-wp.md)** - New quality management templates
+
+### Previous Updates (v3.0)
 - **7 AR-C Section Guides** - Now includes AR-C 100 and AR-C 110
 - **Industry-Specific Guidance** - Healthcare, Nonprofits, Real Estate, Construction, Restaurants
 - **Comprehensive Case Studies** - Real-world scenarios with detailed analysis
-- **Workpaper Examples** - Documentation templates and examples
-- **Advanced Topics** - Going concern, materiality, complex scenarios
+- **Workpaper Examples** - 11 documentation templates and examples
+- **Advanced Topics** - Going concern, materiality, quality management
 - **Complete Glossary** - 150+ defined terms
-- **Enhanced Database** - Expanded JSON with all new content
 
 ---
 
@@ -48,6 +60,13 @@ Welcome to the **Ultimate SSARS Library** - the most comprehensive resource for 
 | [AR-C 100](sections/AR-C-100-Special-Considerations.md) | Special Considerations | International and application of framework issues |
 | [AR-C 110](sections/AR-C-110-Specified-Elements.md) | Specified Elements | Compilation of specific elements or accounts |
 | [AR-C 120](sections/AR-C-120-Pro-Forma.md) | Pro Forma Financial Information | Pro forma compilations |
+
+### SSARS Standards Updates (2025-2026)
+
+| Standard | Title | Effective Date | Description |
+|----------|-------|----------------|-------------|
+| [SSARS No. 26](sections/SSARS-26-Quality-Management.md) | Quality Management | **Dec 15, 2025** | Risk-based quality management for SSARS engagements |
+| [SSARS No. 27](sections/SSARS-27-Consulting-Services-Exemption.md) | Consulting Services | Dec 15, 2026 | Plain paper financial statements under CS Section 100 |
 
 ### Templates
 
@@ -93,6 +112,7 @@ Welcome to the **Ultimate SSARS Library** - the most comprehensive resource for 
 
 | Topic | Description |
 |-------|-------------|
+| [Quality Management Integration](advanced-topics/quality-management-integration.md) | **NEW** - SQMS implementation for SSARS practitioners |
 | [Going Concern](advanced-topics/going-concern-guidance.md) | Evaluation and disclosure guidance |
 | [Materiality](advanced-topics/materiality-guidance.md) | Determination and application |
 | [Advanced Topics Overview](advanced-topics/) | Complex scenario guidance |
@@ -303,9 +323,11 @@ CJCPAs-Ultimate-SSARS-Library/
 │   ├── AR-C-70-Preparation-Engagements.md
 │   ├── AR-C-80-Compilation-Engagements.md
 │   ├── AR-C-90-Review-Engagements.md
-│   ├── AR-C-100-Special-Considerations.md  # NEW
-│   ├── AR-C-110-Specified-Elements.md      # NEW
-│   └── AR-C-120-Pro-Forma.md
+│   ├── AR-C-100-Special-Considerations.md
+│   ├── AR-C-110-Specified-Elements.md
+│   ├── AR-C-120-Pro-Forma.md
+│   ├── SSARS-26-Quality-Management.md      # NEW v4.0
+│   └── SSARS-27-Consulting-Services-Exemption.md  # NEW v4.0
 ├── templates/
 │   ├── engagement-letters/
 │   ├── representation-letters/
@@ -313,32 +335,43 @@ CJCPAs-Ultimate-SSARS-Library/
 ├── checklists/
 │   ├── analytical-procedures.md
 │   └── documentation-checklists.md
-├── industry-guides/                        # NEW
+├── industry-guides/
 │   ├── README.md
 │   ├── healthcare-ssars-guide.md
 │   ├── nonprofit-ssars-guide.md
 │   ├── real-estate-ssars-guide.md
 │   ├── construction-ssars-guide.md
 │   └── restaurant-ssars-guide.md
-├── case-studies/                           # NEW
+├── case-studies/
 │   ├── README.md
 │   ├── compilation-case-studies.md
 │   ├── review-case-studies.md
 │   └── independence-case-studies.md
-├── workpapers/                             # NEW
+├── workpapers/
 │   ├── README.md
-│   └── review-analytical-procedures-wp.md
-├── advanced-topics/                        # NEW
+│   ├── compilation-documentation-wp.md
+│   ├── review-inquiries-wp.md
+│   ├── review-analytical-procedures-wp.md
+│   ├── independence-evaluation-wp.md
+│   ├── entity-understanding-wp.md
+│   ├── planning-memo-wp.md
+│   ├── going-concern-evaluation-wp.md
+│   ├── subsequent-events-wp.md
+│   ├── engagement-completion-checklist-wp.md
+│   ├── quality-management-engagement-wp.md  # NEW v4.0
+│   └── client-acceptance-continuance-wp.md  # NEW v4.0
+├── advanced-topics/
 │   ├── README.md
 │   ├── going-concern-guidance.md
-│   └── materiality-guidance.md
+│   ├── materiality-guidance.md
+│   └── quality-management-integration.md    # NEW v4.0
 ├── quick-reference/
 │   ├── service-comparison-card.md
 │   └── engagement-workflow-card.md
 └── resources/
     ├── aicpa-resources.md
     ├── peer-review-alerts.md
-    └── glossary.md                         # NEW
+    └── glossary.md
 ```
 
 ---
@@ -347,9 +380,10 @@ CJCPAs-Ultimate-SSARS-Library/
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 3.0 | 2024 | Added AR-C 100/110, industry guides, case studies, workpapers, advanced topics, glossary |
-| 2.0 | 2024 | Complete library with all core AR-C sections, templates, checklists |
-| 1.0 | 2024 | Initial comprehensive SSARS library release |
+| 4.0 | Nov 2025 | **SSARS 26/27 update**: Quality management standards, consulting services exemption, QM workpapers, implementation guides |
+| 3.0 | Nov 2025 | Added AR-C 100/110, industry guides, case studies, workpapers, advanced topics, glossary |
+| 2.0 | Nov 2025 | Complete library with all core AR-C sections, templates, checklists |
+| 1.0 | Nov 2025 | Initial comprehensive SSARS library release |
 
 ---
 
