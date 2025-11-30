@@ -18,6 +18,7 @@ Each workpaper includes:
 
 | Workpaper | Description | Engagement Type |
 |-----------|-------------|-----------------|
+| [Client Acceptance/Continuance](client-acceptance-continuance-wp.md) | SQMS No. 1 acceptance and continuance evaluation | All |
 | [Independence Evaluation](independence-evaluation-wp.md) | Comprehensive independence assessment per AICPA Code | All |
 | [Entity Understanding](entity-understanding-wp.md) | Client/entity knowledge documentation | All |
 | [Planning Memo](planning-memo-wp.md) | Engagement planning and risk assessment | Compilation & Review |
@@ -47,6 +48,13 @@ Each workpaper includes:
 | Workpaper | Description |
 |-----------|-------------|
 | [Engagement Completion Checklist](engagement-completion-checklist-wp.md) | Final review before report issuance |
+
+### Quality Management (SSARS No. 26 / SQMS)
+
+| Workpaper | Description | Reference |
+|-----------|-------------|-----------|
+| [QM Engagement Workpaper](quality-management-engagement-wp.md) | Engagement-level quality management documentation | SSARS No. 26 |
+| [Client Acceptance/Continuance](client-acceptance-continuance-wp.md) | SQMS No. 1 acceptance and continuance | SQMS No. 1 |
 
 ---
 
