@@ -2,20 +2,51 @@
 
 ## Overview
 
-This section provides example workpapers demonstrating proper documentation for SSARS engagements. These examples illustrate the level of documentation expected by peer reviewers and show how to document procedures, findings, and conclusions.
+This section provides comprehensive example workpapers demonstrating proper documentation for SSARS engagements. These examples illustrate the level of documentation expected by peer reviewers and show how to document procedures, findings, and conclusions.
+
+Each workpaper includes:
+- Pre-filled example entries showing proper documentation
+- Checkbox formats for efficient completion
+- Cross-references to relevant AR-C sections
+- Signature and approval sections
 
 ---
 
 ## Available Workpaper Examples
 
+### Pre-Engagement & Planning
+
+| Workpaper | Description | Engagement Type |
+|-----------|-------------|-----------------|
+| [Independence Evaluation](independence-evaluation-wp.md) | Comprehensive independence assessment per AICPA Code | All |
+| [Entity Understanding](entity-understanding-wp.md) | Client/entity knowledge documentation | All |
+| [Planning Memo](planning-memo-wp.md) | Engagement planning and risk assessment | Compilation & Review |
+
+### Compilation Workpapers
+
 | Workpaper | Description |
 |-----------|-------------|
-| [Review Analytics Template](review-analytical-procedures-wp.md) | Complete analytical procedures documentation |
-| [Review Inquiries Template](review-inquiries-wp.md) | Documentation of management inquiries |
-| [Compilation Checklist](compilation-documentation-wp.md) | Standard compilation documentation |
-| [Independence Evaluation](independence-evaluation-wp.md) | Independence assessment documentation |
-| [Understanding the Entity](entity-understanding-wp.md) | Entity understanding documentation |
-| [Planning Memo](planning-memo-wp.md) | Engagement planning documentation |
+| [Compilation Documentation](compilation-documentation-wp.md) | Complete compilation engagement documentation |
+
+### Review Workpapers
+
+| Workpaper | Description |
+|-----------|-------------|
+| [Review Inquiries](review-inquiries-wp.md) | AR-C 90.26 management inquiry documentation |
+| [Review Analytical Procedures](review-analytical-procedures-wp.md) | Complete analytical procedures documentation |
+
+### Special Considerations
+
+| Workpaper | Description | Reference |
+|-----------|-------------|-----------|
+| [Going Concern Evaluation](going-concern-evaluation-wp.md) | Going concern assessment per ASC 205-40 | AR-C 90.26(j) |
+| [Subsequent Events](subsequent-events-wp.md) | Subsequent events evaluation per ASC 855 | AR-C 90.26(l) |
+
+### Engagement Completion
+
+| Workpaper | Description |
+|-----------|-------------|
+| [Engagement Completion Checklist](engagement-completion-checklist-wp.md) | Final review before report issuance |
 
 ---
 
