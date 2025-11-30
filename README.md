@@ -381,9 +381,9 @@ CJCPAs-Ultimate-SSARS-Library/
 | Version | Date | Changes |
 |---------|------|---------|
 | 4.0 | Nov 2025 | **SSARS 26/27 update**: Quality management standards, consulting services exemption, QM workpapers, implementation guides |
-| 3.0 | 2024 | Added AR-C 100/110, industry guides, case studies, workpapers, advanced topics, glossary |
-| 2.0 | 2024 | Complete library with all core AR-C sections, templates, checklists |
-| 1.0 | 2024 | Initial comprehensive SSARS library release |
+| 3.0 | Nov 2025 | Added AR-C 100/110, industry guides, case studies, workpapers, advanced topics, glossary |
+| 2.0 | Nov 2025 | Complete library with all core AR-C sections, templates, checklists |
+| 1.0 | Nov 2025 | Initial comprehensive SSARS library release |
 
 ---
 
