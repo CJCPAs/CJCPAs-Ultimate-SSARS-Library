@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "title": "CJCPAs Ultimate SSARS Library Database",
-    "version": "2.0",
-    "lastUpdated": "2024-12-01",
-    "ssarsVersion": "SSARS No. 21-28",
-    "description": "Comprehensive structured database of SSARS standards, requirements, and guidance"
+    "title": "CJCPAs SSARS Library Database",
+    "version": "4.0",
+    "lastUpdated": "2025-12-05",
+    "ssarsVersion": "SSARS No. 21-27",
+    "description": "A comprehensive, community-driven database of SSARS standards, requirements, and guidance. For educational purposes only - always verify with current AICPA Professional Standards."
   },
   "sections": {
     "AR-C-60": {

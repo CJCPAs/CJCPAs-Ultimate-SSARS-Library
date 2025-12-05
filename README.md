@@ -1,8 +1,24 @@
-# CJCPAs Ultimate SSARs Library
+# CJCPAs SSARS Library
 
-## The Definitive Compilation and Review Reference - Version 4.0
+## A Comprehensive Compilation and Review Reference - Version 4.0
 
-Welcome to the **Ultimate SSARS Library** - the most comprehensive resource for mastering Statements on Standards for Accounting and Review Services. This library covers every AR-C section with official AICPA language, plain English interpretations, practical implementation guidance, industry-specific modules, case studies, workpaper examples, and a structured database.
+> ⚠️ **IMPORTANT: Please Read Before Using This Resource**
+>
+> This guide is for **informational and educational purposes only** and does not constitute professional accounting, auditing, or legal advice. The information may not be complete or current, and professional standards change frequently. **Always consult the current AICPA Professional Standards and a qualified CPA** before making decisions about your specific engagement situations. See the [full disclaimer](#%EF%B8%8F-important-disclaimer) below.
+
+---
+
+## 🌐 Open Source & Community-Driven
+
+**A comprehensive, community-driven resource for SSARS practitioners** - covering AR-C sections, implementation guidance, workpaper templates, and practical examples.
+
+We believe accurate professional standards information should be accessible to everyone. This is an **open source project** and we welcome contributions, corrections, and improvements from the accounting community. If you find an error or have expertise to share, please contribute! Together, we can make this resource better for everyone.
+
+**Found an issue?** [Open an issue](../../issues) or submit a pull request.
+
+---
+
+Welcome to the **CJCPAs SSARS Library** - a comprehensive resource for Statements on Standards for Accounting and Review Services. This library covers the AR-C sections with official AICPA language, plain English interpretations, practical implementation guidance, industry-specific modules, case studies, workpaper examples, and a structured database.
 
 ---
 
@@ -314,7 +330,7 @@ See [Peer Review Alerts](resources/peer-review-alerts.md) for detailed guidance.
 ## Repository Structure
 
 ```
-CJCPAs-Ultimate-SSARS-Library/
+CJCPAs-SSARS-Library/
 ├── README.md                              # This file
 ├── data/
 │   └── ssars-database.json                # Structured SSARS data
@@ -387,16 +403,32 @@ CJCPAs-Ultimate-SSARS-Library/
 
 ---
 
-## Important Disclaimers
+## ⚠️ Important Disclaimer
 
-This library is provided for educational and reference purposes. Users should:
+**THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
 
-- Always consult current AICPA Professional Standards
-- Consider state board requirements and ethics rules
-- Apply professional judgment to specific situations
-- Stay current with ARSC pronouncements and interpretations
+The CJCPAs SSARS Library is designed to help accounting professionals understand and apply Statements on Standards for Accounting and Review Services. However, this resource has limitations and should be used appropriately.
 
-**Standards Coverage**: Content reflects SSARS No. 21-28 and related amendments. Always verify current effective dates.
+### Please Note:
+
+**Not Professional Advice:** This guide is not a substitute for professional accounting judgment, legal counsel, or consultation with the AICPA Professional Standards. Every engagement situation is unique and may require analysis beyond what is covered here.
+
+**Verify with Authoritative Sources:** Before implementing any practices described in this guide, you should consult:
+- The current AICPA Professional Standards (official AR-C sections)
+- Your state board of accountancy requirements
+- The AICPA Code of Professional Conduct
+- Your firm's quality management policies
+- A qualified peer reviewer or technical consultant for complex situations
+
+**Accuracy Not Guaranteed:** While we strive for accuracy, professional standards change frequently through ARSC pronouncements, interpretations, and amendments. The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even the official AICPA guidance cannot address every possible situation—neither can this guide.
+
+**Jurisdictional Variations:** State boards of accountancy may have additional requirements beyond AICPA standards. Some states have specific rules regarding compilation and review engagements, independence, and licensing. Always verify your state's requirements.
+
+**Open Source Disclaimer:** This is a community-driven, open source project. While we welcome contributions and strive for accuracy, content is provided by various contributors and may contain errors or become outdated. Always verify critical information with the current AICPA Professional Standards.
+
+**Standards Coverage:** Content references SSARS No. 21-27 and related amendments as of the version date. Always verify current effective dates with AICPA resources.
+
+If you need professional assistance with a specific engagement, please consult with a licensed CPA, your firm's technical resources, or the AICPA Technical Hotline.
 
 ---
 
@@ -412,10 +444,39 @@ This library is provided for educational and reference purposes. Users should:
 
 ## Contributing
 
-This library is maintained by CJCPAs. Suggestions and improvements are welcome.
+This is a **living, open source document** maintained by the accounting community. We welcome contributions from CPAs, accounting professionals, educators, and students.
+
+### How to Contribute
+
+- **Found an error?** [Open an issue](../../issues) describing the problem
+- **Have a correction?** Submit a pull request with your fix
+- **Want to add content?** Fork the repo and submit a PR
+- **Have expertise to share?** We'd love your input on complex topics
+
+### Contribution Guidelines
+
+1. **Cite authoritative sources** - Reference specific AR-C paragraphs, AICPA guidance, or other official sources when possible
+2. **Be specific about standards references** - Include paragraph numbers and effective dates
+3. **Note when rules differ** - Acknowledge variations for different engagement types, entity sizes, or jurisdictions
+4. **Avoid overclaiming** - Acknowledge limitations and edge cases; no guide can cover everything
+5. **Keep the tone educational and accessible** - Balance technical accuracy with plain English explanations
+6. **Verify accuracy** - Double-check references against current AICPA Professional Standards
+
+**Together, we can make SSARS guidance accessible and accurate for everyone.**
 
 ---
 
-*Maintained by CJCPAs - Committed to Excellence in Professional Standards*
+## Regulatory References
 
-**The Ultimate SSARS Library - Because Good Enough Isn't Good Enough**
+For authoritative guidance, always consult:
+
+- [AICPA Professional Standards](https://www.aicpa.org/resources/download/aicpa-professional-standards) - Official AR-C sections
+- [Accounting and Review Services Committee (ARSC)](https://www.aicpa.org/resources/article/accounting-and-review-services-committee) - Standards-setting body
+- [AICPA Code of Professional Conduct](https://www.aicpa.org/resources/download/aicpa-code-of-professional-conduct) - Ethics requirements
+- [State Board of Accountancy](https://nasba.org/stateboards/) - Your state's specific requirements
+
+---
+
+*Maintained by CJCPAs and the open source community*
+
+*Last Updated: December 2025*
