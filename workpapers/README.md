@@ -89,4 +89,14 @@ Documentation should be sufficient to enable an **experienced accountant**, havi
 
 ---
 
-*These templates are examples for educational purposes. Adapt to your firm's standards and specific engagement needs.*
+## ⚠️ Important Notice
+
+**These templates are examples for educational and reference purposes only.** They are designed to illustrate documentation concepts and should be adapted to your firm's quality management policies, specific engagement circumstances, and current professional standards.
+
+Before using these templates:
+- Verify requirements against current AICPA Professional Standards
+- Customize for your specific client and engagement
+- Ensure compliance with your firm's QM policies
+- Consult with your firm's technical resources for complex situations
+
+This is an open source, community-driven project. If you find errors or have suggestions for improvement, please [open an issue](../../issues) or submit a pull request.
